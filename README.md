@@ -1,3 +1,5 @@
+# THIS REPOSITORY IS FOR PERSONAL USE, DO NOT FORK OR USE.
+
 # TCP in React Native
 
 node's [net](https://nodejs.org/api/net.html) API in React Native
